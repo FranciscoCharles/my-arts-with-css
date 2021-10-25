@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><b>My arts with CSS</b> 🛠️🧪</h1>
+  <h1><b>🖼️🎨👨‍🎨 My arts with CSS</b> 🛠️🧪</h1>
   <h6>by <i>FranciscoCharles</i></h6>
 </p>
 <p align="justify">
